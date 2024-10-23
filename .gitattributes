@@ -1,0 +1,2 @@
+Part_2/Classification_Problem_2/Xtrain2_a.npy filter=lfs diff=lfs merge=lfs -text
+Part_2/Classification_Problem_2/Xtest2_a.npy filter=lfs diff=lfs merge=lfs -text
